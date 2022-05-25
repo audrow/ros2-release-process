@@ -19,7 +19,7 @@ gantt
 title ROS 2 Release Process
 axisFormat %b %e
 
-Find ROS Boss:                                    r1, 3/8/2022,  4/5/2022
+Find ROS Boss:                                    3/8/2022,  4/5/2022
 Discourse naming thread:                          4/25/2022, 5/16/2022
 Collate names from Discourse thread:              5/16/2022, 5/18/2022
 Naming thread meeting:                            5/18/2022, 5/19/2022
@@ -50,6 +50,4 @@ Add Iron to documentation:                        4/20/2023, 4/21/2023
 Build interim tarballs for testing:               4/20/2023, 4/21/2023
 Announce branched Iron and Beta:                  4/24/2023, 4/26/2023
 Prep for the release:                             5/15/2023, 5/19/2023
-
-click r1 href "https://mermaidjs.github.io/"
 ```
